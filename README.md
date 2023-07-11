@@ -1,0 +1,12 @@
+# Testando libs
+ ### Alarme: PlaySound, Datetime, Tkinter --> [01](https://github.com/gothvadeer/testing_something/blob/main/alarme.py)
+ ### Assistente virtual: pyttsx3, speech_recognition, os -- > [02](https://github.com/gothvadeer/testing_something/blob/main/assistente.py)
+ ### Baixar MP3: pytube, moviepy.editor, re, os, pathlib -- > [04](https://github.com/gothvadeer/testing_something/blob/main/baixar_mp3.py)
+ ### Corrida de tartarugas: turtle, random -- > [05](https://github.com/gothvadeer/testing_something/blob/main/corrida_maluca.py)
+### Gráfico de barra: matplotlib -- > [06](https://github.com/gothvadeer/testing_something/blob/main/grafico_barra.py)
+### Gráfico pizza: matplotlib -- > [07](https://github.com/gothvadeer/testing_something/blob/main/grafico_pizza.py)
+### Gráfico 3D: numpy, matplotlib -- > [08](https://github.com/gothvadeer/testing_something/blob/main/graficos_3d.py)
+### Reconhecimento de carros: cv2, imutils -- > [09](https://github.com/gothvadeer/testing_something/blob/main/reconhecimento_carros.py)
+### Reconhecimento facial: cv2, imutils -- > [10](https://github.com/gothvadeer/testing_something/blob/main/reconhecimento_facial.py)
+### Reconhecimento pedestres: cv2, imutils -- > [11](https://github.com/gothvadeer/testing_something/blob/main/reconhecimento_pedestres.py)
+### Abrindo Webcam: cv2 -- > [12](https://github.com/gothvadeer/testing_something/blob/main/webcam.py)
